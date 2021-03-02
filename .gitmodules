@@ -3,4 +3,4 @@
 	url = https://github.com/Queco1/App-test-client.git
 [submodule "test-api"]
 	path = test-api
-	url = https://github.com/Queco1/App-test-api.git
+	url = ./test-api
